@@ -60,4 +60,11 @@ void display() {	//prosuder untuk menampilkan hasil
 		cout << a[j] << endl;			//Output ke layar
 	}
 	cout << endl;		//Output baris kosong
+} 
+int main() {
+	input();
+	unsorted();
+	bubblesortArray();
+	display();
+	return 0;
 }
