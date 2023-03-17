@@ -1,4 +1,3 @@
-
 #include <iostream>
 using namespace std;
 
@@ -24,4 +23,4 @@ void input() {			// Prosedur untuk input
 		cout << "Data ke-" << (i + 1) << ": ";	// Output ke layar
 		cin >> a[i];
 	}
-}
+} 
